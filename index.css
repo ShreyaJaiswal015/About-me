@@ -1,0 +1,53 @@
+.image{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+.div1{
+    background-color: rgb(137, 212, 214);
+    text-align: center;
+    padding: 10%;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.shreya1{
+    color: rgb(65, 53, 53);
+    padding-bottom: 3%;
+}
+.div2{
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10%;
+    
+}
+.edu{
+    padding: 3%;
+    text-align: center; 
+}
+.hob{
+    padding:3% ;
+    text-align: center;
+}
+.pla{
+    background-color: blueviolet;
+    padding: 3%;
+
+}
+.hjh{
+    text-align: center;
+}
+.ski{
+    background-color: coral;
+    padding: 3%
+    ;
+}
+.skii{
+    text-align: center;
+}
+.con{
+    background-color: darkslategrey;
+    padding: 3%;
+    text-align: center;
+}
